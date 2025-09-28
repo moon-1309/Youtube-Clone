@@ -7,7 +7,6 @@ Clone the Repository:
 Navigate to your desired directory and clone the project using the GitHub URL (replace <repository-url> with the actual link).
 
 Bash
-
 git clone <repository-url>
 cd <repository-name>
 
